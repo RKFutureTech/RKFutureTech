@@ -46,7 +46,7 @@ bash
 python scholarship.py
 
 📂 Project Structure
-text
+
 Scholarship-Eligibility-Test/
 │
 ├── scholarship.py
